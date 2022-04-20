@@ -1,0 +1,23 @@
+.form-group {
+    padding: 10px;
+    display: block;
+    width: 200px;
+    background-color:rgb(78, 78, 41);
+    border-style: solid;
+}
+.input-text {
+    width: 95%;
+    margin-bottom: 10px;
+}
+.input-color {
+    width: 100%;
+    margin-bottom: 10px;
+}
+.btn-block {
+    background-color:rgb(1, 6, 31);
+    width: 100%;
+    margin-bottom: 10px;
+}
+.btn-block:hover {
+    background-color:rgb(21, 220, 24)
+}
